@@ -37,6 +37,6 @@ Give a ⭐ if you like this project!
 
 <img src="static/1.png" width="50%" height="50%">
 <img src="static/2.png" width="50%" height="50%">
-<img src="static/3.png" width="50%" height="50%">
+<img src="static/5.png" width="50%" height="50%">
 <img src="static/4.png" width="50%" height="50%">
 
