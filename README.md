@@ -1,21 +1,12 @@
 <h2 align="center">
-  ANJALI KUMARI
-  <br><a href="http://anjaliaks.github.io/Mysite/" target="_blank">🔗anjaliaks</a>
+  MOHIT PRASAD
 </h2>
 <br/>
 
 
+You can fork this repo. Please give me proper credit. Thanks!
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/anjaliaks/anjaliaks.github.io/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/anjaliaks/anjaliaks.github.io/issues">Request Feature</a>
-</h3>
-
-You can fork this repo. Please give me proper credit by linking back to [anjaliaks](https://github.com/anjaliaks/anjaliaks.github.io). Thanks!
-
-emoMusic is a Emotion Based Music Recommendation System webapp which can guess your emotion through your facial expressions and can recommend songs accoringly.<br/>
+EmoSongify is a Emotion Based Music Recommendation System webapp which can guess your emotion through your facial expressions and can recommend songs accoringly.<br/>
 
 # Tech Stack :
 
